@@ -23,19 +23,18 @@ Server-side Code
 ### Passport ![Passport Icon](https://img.icons8.com/color/48/000000/passport.png)
 Passport is authentication middleware for Node.js. 
 
-### Multer ![Multer Icon](https://img.icons8.com/color/48/000000/multer.png)
+### Multer 
 for handling multipart/form-data, primarily used for uploading files.
 
-### Nodemon ![Nodemon Icon](https://img.icons8.com/color/48/000000/nodemon.png)
+### Nodemon 
 Nodemon is a utility that monitors for changes in files and automatically restarts the server. It is particularly useful during development.
 
 ### Jsonwebtoken ![JWT Icon](https://img.icons8.com/color/48/000000/json.png)
  authentication and authorization in web applications.
 
-### Cors ![Cors Icon](https://img.icons8.com/color/48/000000/cors.png)
+### Cors 
 
-
-### Bcrypt ![Bcrypt Icon](https://img.icons8.com/color/48/000000/bcrypt.png)
+### Bcrypt
 password hashing
 
 ## Features
